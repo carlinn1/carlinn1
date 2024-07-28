@@ -4,8 +4,8 @@
 
 ##
 
-📌Cursando o 6º semestre de Engenharia de Software na Universidade de Brasília - (UnB). <br>
-📌Sempre em busca de aprendizado e aperfeiçoamento profissional e pessoal!
+🖥️ Cursando o 7º semestre de Engenharia de Software na Universidade de Brasília - (UnB). <br>
+🖥️ Sempre em busca de aprendizado e aperfeiçoamento profissional e pessoal!
 
 #####  Aprendendo atualmente:
 
@@ -27,15 +27,15 @@
 ##
  
 <div align="center">   
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Carlos42511&show_icons=true&theme=radical" /> 
-   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carlos42511&theme=blue-green" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=carlinn1&show_icons=true&theme=radical" /> 
+   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlinn1&theme=blue-green" />
 </div>
 
 
 
  <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Carlos42511}/count.svg" /></p> 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{carlinn1F}/count.svg" /></p> 
 <br>
 </div>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=120&section=footer"/>

@@ -10,10 +10,8 @@
 #####  Aprendendo atualmente:
 
 <div>
-   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-   <img  src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
-   <img  src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img  src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  ![C]<img  src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  ![Java]<img  src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
 </div>
 
 
@@ -35,7 +33,7 @@
 
  <div align="center">
     
-<br>![](https://github-readme-streak-stats.herokuapp.com?user=carlinn1&theme=dark&hide_border=true&locale=pt_BR)](https://git.io/streak-stats)<br/>    
+<br>![](https://github-readme-streak-stats.herokuapp.com?user=carlinn1&theme=dark&hide_border=true&locale=pt_BR)<br/>    
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{carlinn1}/count.svg" /></p> 
 <br>

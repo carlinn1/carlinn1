@@ -35,7 +35,7 @@
 
  <div align="center">
     
- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=carlinn1&theme=dark&hide_border=true&locale=pt_BR)](https://git.io/streak-stats)    
+<br>![](https://github-readme-streak-stats.herokuapp.com?user=carlinn1&theme=dark&hide_border=true&locale=pt_BR)](https://git.io/streak-stats)<br/>    
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{carlinn1}/count.svg" /></p> 
 <br>

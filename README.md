@@ -20,6 +20,6 @@ Hello, I'm Carlos!
     
 <br>![](https://github-readme-streak-stats.herokuapp.com?user=carlinn1&theme=dark&hide_border=true&locale=pt_BR)
 ![GitStatus](https://github-readme-stats.vercel.app/api?username=carlinn1&show_icons=true&theme=dark)
-![Status](https://github-readme-stats.vercel.app/api/top-langs/?username=carlinn1&layout=compact&theme=dark)</br>
+![Status](https://github-readme-stats.vercel.app/api/top-langs/?username=carlinn1&layout=compact&theme=dark)<br/>
 
 </div>

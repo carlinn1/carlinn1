@@ -10,7 +10,7 @@ Hello, I'm Carlos!
   ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
   ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white")
 
-
+# 📊 GitHub Stats:
  <div align="center">
     
 <br>![](https://github-readme-streak-stats.herokuapp.com?user=carlinn1&theme=dark&hide_border=true&locale=pt_BR)<br/>    

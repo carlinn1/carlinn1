@@ -18,6 +18,7 @@ Hello, I'm Carlos!
 # 📊 GitHub Stats:
  <div align="center">
     
-<br>![](https://github-readme-streak-stats.herokuapp.com?user=carlinn1&theme=dark&hide_border=true&locale=pt_BR)<br/>    
+<br>![](https://github-readme-streak-stats.herokuapp.com?user=carlinn1&theme=dark&hide_border=true&locale=pt_BR)<br/>
+<br>![GitStatus](https://github-readme-stats.vercel.app/api?username=carlinn1)](https://github.com/carlinn1/github-readme-stats)<br/>
 
 </div>

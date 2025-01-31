@@ -1,33 +1,14 @@
 # About Me:  
 Hello, I'm Carlos!  
 
-🖥️ I'm a Software Engineering student at the University of Brasília, passionate about Java and currently learning technologies like Spring Boot, Angular, and more. I also have experience with C and enjoy exploring different areas of software development.  
+🖥️ Sou estudante de Engenharia de Software na Universidade de Brasília, apaixonado por Java e atualmente aprendendo tecnologias como Spring Boot, Angular e mais. Também tenho experiência com C e gosto de explorar diferentes áreas do desenvolvimento de software.  
 
-🚀 I'm always looking for new challenges and opportunities to grow as a developer. Here on my profile, you will find my projects, studies, and contributions to the tech community. Feel free to explore and see what I'm working on!
-
-
-#####  Aprendendo atualmente:
-
-<div>
-  <img  src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img  src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-</div>
+🚀 Estou sempre em busca de novos desafios e oportunidades para crescer como desenvolvedor. Aqui no meu perfil, você encontrará meus projetos, estudos e contribuições para a comunidade de tecnologia. Sinta-se à vontade para explorar e ver no que estou trabalhando!
 
 
-#####  Contatos:
-
-<div > 
-  <a href = "mailto:carlos_-425@hotmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/_carlinn1" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
- <a href=""></a> 
-    
-##
- 
-<div align="center">   
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=carlinn1&show_icons=true&theme=radical" /> 
-   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlinn1&theme=blue-green" />
-</div>
-
+# 💻 Tech Stack:
+  ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white")
 
 
  <div align="center">

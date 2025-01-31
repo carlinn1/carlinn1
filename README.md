@@ -1,11 +1,10 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=120&section=header"/>
+# About Me:  
+Hello, I'm Carlos!  
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=Olá👋;Bem-vindo(a)+ao+meu+repositório!;:%29)](https://git.io/typing-svg)
+🖥️ I'm a Software Engineering student at the University of Brasília, passionate about Java and currently learning technologies like Spring Boot, Angular, and more. I also have experience with C and enjoy exploring different areas of software development.  
 
-##
+🚀 I'm always looking for new challenges and opportunities to grow as a developer. Here on my profile, you will find my projects, studies, and contributions to the tech community. Feel free to explore and see what I'm working on!
 
-🖥️ Cursando o 7º semestre de Engenharia de Software na Universidade de Brasília - (UnB). <br>
-🖥️ Sempre em busca de aprendizado e aperfeiçoamento profissional e pessoal!
 
 #####  Aprendendo atualmente:
 

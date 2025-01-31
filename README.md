@@ -5,6 +5,10 @@ Hello, I'm Carlos!
 
 🚀 Estou sempre em busca de novos desafios e oportunidades para crescer como desenvolvedor. Aqui no meu perfil, você encontrará meus projetos, estudos e contribuições para a comunidade de tecnologia. Sinta-se à vontade para explorar e ver no que estou trabalhando!
 
+<div style="display: inline_block"><br>
+  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</div>
 
 # 💻 Tech Stack:
   ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)

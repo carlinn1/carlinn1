@@ -8,10 +8,10 @@
 
 <div align="center">
   
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-perfil)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-henrique-souza-bispo-29931231b/)
   [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/carlinn1)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://seu-portfolio.com)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu-email@email.com)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://engsoftware-portifolio.vercel.app/)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:carlocarlo960@gmail.com)
 
 </div>
 
@@ -64,6 +64,8 @@ public class Carlos extends SoftwareEngineer {
 
 ### Tools & Others
 
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -80,47 +82,16 @@ public class Carlos extends SoftwareEngineer {
 
 <div align="center">
   
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=carlinn1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=carlinn1&theme=tokyonight&hide_border=true&locale=pt_BR&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=carlinn1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=carlinn1&theme=tokyonight&hide_border=true&locale=pt_BR&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
   
 </div>
 
 <div align="center">
   
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlinn1&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+  <img width="60%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=carlinn1&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
   
 </div>
-
-<div align="center">
-  
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=carlinn1&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
-  
-</div>
-
----
-
-## Featured Projects
-
-<div align="center">
-
-[![Cardapio Digital](https://github-readme-stats.vercel.app/api/pin/?username=carlinn1&repo=Cardapio-Ifood&theme=tokyonight&hide_border=true)](https://github.com/carlinn1/Cardapio-Ifood)
-
-</div>
-
-### Cardápio Digital - Full Stack Application
-
-**Complete digital menu management application**
-
-**Tech Stack:**
-- **Backend:** Java 17, Spring Boot, Spring Data JPA, PostgreSQL
-- **Frontend:** React 18, TypeScript, Vite, TanStack Query
-- **Architecture:** Clean Architecture, RESTful API
-
-**Key Features:**
-- Complete CRUD operations for menu items
-- RESTful API with proper documentation
-- Responsive and modern user interface
-- State management with React Query
 
 ---
 
@@ -183,9 +154,9 @@ As a Software Engineering student at UnB, I combine academic knowledge with prac
 
 **Contact:**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-perfil)
-[![Email](https://img.shields.io/badge/Email-Enviar-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu-email@email.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Seguir-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/carlinn1)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-henrique-souza-bispo-29931231b/)
+[![Email](https://img.shields.io/badge/Email-Send-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:carlocarlo960@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/carlinn1)
 
 </div>
 
@@ -194,8 +165,6 @@ As a Software Engineering student at UnB, I combine academic knowledge with prac
 <div align="center">
 
 ---
-
-![Visitor Count](https://profile-counter.glitch.me/carlinn1/count.svg)
 
 *"The only way to do great work is to love what you do."* - Steve Jobs
 
